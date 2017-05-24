@@ -6,3 +6,4 @@ add dev.txt2
 add dev.txt3
 feature2
 add brunch - feature/rebase
+add brunch - feature/rebase2

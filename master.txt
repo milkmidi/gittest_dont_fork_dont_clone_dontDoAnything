@@ -1,5 +1,6 @@
 master.txt
 feature1 + 1 + 1
-feature2
+feature2 + 2 + 2
 add dev.txt
 add dev.txt2
+add dev.txt3

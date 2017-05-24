@@ -3,3 +3,8 @@ feature1 + 1 + 1
 feature2
 add brunch - feature/rebase
 add brunch - feature/rebase2
+feature2 + 2 + 2
+add dev.txt
+add dev.txt2
+add dev.txt3
+

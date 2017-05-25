@@ -18,3 +18,6 @@ branch-dev.txt
 2017 05 25 09:51-4
 dev 1
 feature3.txt
+feature3.txt
+feature3.txt
+feature3.txt2

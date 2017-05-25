@@ -21,3 +21,5 @@ feature3.txt
 feature3.txt
 feature3.txt
 feature3.txt2
+feature3.txt2
+feature3.txt3

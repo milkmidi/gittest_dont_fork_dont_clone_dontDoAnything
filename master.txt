@@ -14,4 +14,9 @@ add branch - feature/rebase2
 branch-dev.txt
 2017 05 25 09:51
 2017 05 25 09:51-2
+<<<<<<< HEAD
 feature/rebase
+=======
+feature/rebase
+feature/rebase-2
+>>>>>>> Add rebase.js

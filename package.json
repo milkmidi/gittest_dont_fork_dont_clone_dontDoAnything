@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "git test only",
   "scripts": {
-    "deploy": "git push -f origin `git subtree split --prefix build origin`:gh-pages"
+    "deploy": "git push origin `git subtree split --prefix build master`:gh-pages --force",
+    "deploy2": "git subtree split --branch test --prefix src/"
   },
   "repository": {
     "type": "git",

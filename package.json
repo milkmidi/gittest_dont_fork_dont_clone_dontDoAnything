@@ -1,0 +1,26 @@
+{
+  "name": "gittest_dont_fork_dont_clone_dontdoanything",
+  "version": "1.0.0",
+  "description": "git test only",
+  "scripts": {
+    "deploy": "git push origin `git subtree split --prefix build master`:gh-pages --force",
+    "deploy2": "git subtree split --branch test --prefix src/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/milkmidi/gittest_dont_fork_dont_clone_dontDoAnything.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/milkmidi/gittest_dont_fork_dont_clone_dontDoAnything/issues"
+  },
+  "homepage": "https://github.com/milkmidi/gittest_dont_fork_dont_clone_dontDoAnything#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-util": "^3.0.8"
+  },
+  "devDependencies": {
+    "vinyl-ftp": "^0.6.0"
+  }
+}

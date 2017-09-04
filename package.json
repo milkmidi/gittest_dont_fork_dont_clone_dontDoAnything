@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/milkmidi/gittest_dont_fork_dont_clone_dontDoAnything/issues"
   },
-  "homepage": "https://github.com/milkmidi/gittest_dont_fork_dont_clone_dontDoAnything#readme"
+  "homepage": "https://github.com/milkmidi/gittest_dont_fork_dont_clone_dontDoAnything#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-util": "^3.0.8"
+  },
+  "devDependencies": {
+    "vinyl-ftp": "^0.6.0"
+  }
 }
